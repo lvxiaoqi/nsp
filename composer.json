@@ -1,0 +1,25 @@
+{
+    "name": "lvxiaoqi/nsp",
+    "description": "This a demo for build composer packagist .",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiqoqi",
+            "email": "yi@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\V1\\": "src/User/V1",
+            "Extend\\V1\\": "src/Extend/V1",
+            "User\\V2\\": "src/User/V2",
+            "Extend\\V2\\": "src/Extend/V2",
+            "app": "src",
+        }
+    }
+}
