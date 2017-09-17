@@ -19,6 +19,7 @@
             "Extend\\V1\\": "src/Extend/V1",
             "User\\V2\\": "src/User/V2",
             "Extend\\V2\\": "src/Extend/V2",
+            "App": "src"
         }
     }
 }
