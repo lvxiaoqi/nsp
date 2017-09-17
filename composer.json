@@ -14,10 +14,10 @@
     },
     "autoload": {
         "psr-4": {
-            "User\\V1\\": "src/User/V1",
-            "Extend\\V1\\": "src/Extend/V1",
-            "User\\V2\\": "src/User/V2",
-            "Extend\\V2\\": "src/Extend/V2",
+            "User\\V1\\": "src/V1/User",
+            "Extend\\V1\\": "src/V1/Extend",
+            "User\\V2\\": "src/V2/User",
+            "Extend\\V2\\": "src/V2/Extend",
             "App\\": "src"
         }
     }

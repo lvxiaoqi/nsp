@@ -1,8 +1,8 @@
 <?php
 
-namespace app\V2\Extend;
+namespace Extend\V2;
 
-class User 
+class Extend 
 {
 	public function extend()
 	{

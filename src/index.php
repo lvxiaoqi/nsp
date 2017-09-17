@@ -1,12 +1,12 @@
 <?php
-namespace app;
-use app\V1\User;
+namespace App;
+use User\V2\User;
 
 class Index
 {
 	public function index()
 	{
-		echo '¹ş¹ş¹ş';
+		echo '121221=====';
 		(new User())->user();
 	}   
 }
