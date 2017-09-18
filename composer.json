@@ -9,6 +9,7 @@
             "email": "yi@163.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     },
